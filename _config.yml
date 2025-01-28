@@ -2,4 +2,5 @@ title: Nene Gideon
 logo: assets/img/prof2.jpg
 description: Data Scientist/Analyst
 # show_download: true
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
