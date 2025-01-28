@@ -4,7 +4,7 @@
 * Data Cleaning and Analysis: Exploratory Data Analysis
 
   ## Table of contents
-  - [Distribution of Charges](Distribution-of-Charges)
+  - [Distribution of Charges](#Distribution-of-Charges)
 ### Technology: Python
 ### Library:
 - Pandas
