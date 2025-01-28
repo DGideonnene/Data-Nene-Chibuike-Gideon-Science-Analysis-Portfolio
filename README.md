@@ -9,4 +9,4 @@
 - Matplot
 - seaborn
   ### Distribution of Charges
-![hist](https://github.com/user-attachments/assets/e076fe95-3f64-41d2-9953-0d9c1cd15bd7)
+![hist](https://github.com/user-attachments/assets/da3055a6-3a68-4de2-9db7-0213d8454cf4)
