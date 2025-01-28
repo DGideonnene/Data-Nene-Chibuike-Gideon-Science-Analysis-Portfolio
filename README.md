@@ -1,8 +1,8 @@
-# NENE-GIDEON-PROJECT-PORTFOLIO
+# PROJECT-PORTFOLIO
 
 
 ## Table of contents
-- [Project 1: Predition of charges based on Medical Health Data](#Project-1)
+- [Project 1: Predition of charges based on Medical Health Data](#Project-1:-Predition-of-charges-based-on-Medical-Health-Data)
 - [Project 2:  Comprehensive Business Metrics Analysis and Growth Strategies](#Project-2)
 - [Project 3:  Comprehensive Taxi Service Performance Analysis and Strategic Insights](#Project-3)
 
