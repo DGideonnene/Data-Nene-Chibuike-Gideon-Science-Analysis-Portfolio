@@ -3,8 +3,8 @@
 
 ## Table of contents
 - [Project 1: Predition of charges based on Medical Health Data](#Project-1:-Predition-of-charges-based-on-Medical-Health-Data)
-- [Project 2:  Comprehensive Business Metrics Analysis and Growth Strategies](#Project-2)
-- [Project 3:  Comprehensive Taxi Service Performance Analysis and Strategic Insights](#Project-3)
+- [Project 2:  Comprehensive Business Metrics Analysis and Growth Strategies](#Project-2:-Comprehensive-Business-Metrics-Analysis-and-Growth-Strategies)
+- [Project 3:  Comprehensive Taxi Service Performance Analysis and Strategic Insights](#Project-3:-Comprehensive-Taxi-Service-Performance-Analysis-and-Strategic-Insights)
 
 
 ## [Project 1: Predition of charges based on Medical Health Data](https://github.com/DGideonnene/Medical-ML)
