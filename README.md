@@ -19,7 +19,7 @@
 ### Distribution of Charges
 ![hist](https://github.com/user-attachments/assets/da3055a6-3a68-4de2-9db7-0213d8454cf4)
 
-## [Project 2:  Comprehensive Business Metrics Analysis and Growth Strategies](https://github.com/DGideonnene/Medical-ML)
+## [Project 2:  Comprehensive Business Metrics Analysis and Growth Strategies](https://github.com/DGideonnene/Business-Metrics-Analysis-and-Growth-Strategies)
 *This report analyzes key business metrics, uncovering trends in order growth, product performance, and customer behavior. Highlights include strong revenue growth, high-value customer contributions, and insights into return rates. Actionable strategies focus on enhancing product quality, optimizing inventory, and targeting marketing efforts for sustained growth.*
 
 ### Tools Used:
