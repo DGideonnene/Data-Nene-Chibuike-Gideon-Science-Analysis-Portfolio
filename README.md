@@ -38,7 +38,7 @@
 
 ### Conclusion
 The data reveals a strong growth trajectory in revenue and orders. However, addressing product return issues and optimizing inventory and marketing strategies will be key to sustaining and accelerating this growth. Further analysis on customer segmentation and product performance is recommended to refine business strategies.
-*[For more Report Details ↗️](https://github.com/DGideonnene/Medical-ML)*
+*[For more Report Details ↗️](https://github.com/DGideonnene/Business-Metrics-Analysis-and-Growth-Strategies/blob/main/Charts/Adventure%20Data%20Analysis%20Report.docx)*
 
 
 ## [Project 3:  Comprehensive Taxi Service Performance Analysis and Strategic Insights](https://github.com/DGideonnene/Analysis-on-Taxi-Organization)
@@ -60,4 +60,4 @@ The data reveals a strong growth trajectory in revenue and orders. However, addr
 
 ### Conclusion
 The taxi service demonstrates strong revenue potential, particularly in business districts and high-traffic locations. By optimizing pricing, marketing strategies, and trip management, significant improvements in revenue and customer satisfaction can be achieved.
-*[For more Report Details ↗️](https://github.com/DGideonnene/Medical-ML)*
+*[For more Report Details ↗️](https://github.com/DGideonnene/Analysis-on-Taxi-Organization/blob/main/Taxi%20Organization%20Data%20Analysis%20Report.docx)*
