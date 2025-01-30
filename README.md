@@ -50,11 +50,11 @@ The data reveals a strong growth trajectory in revenue and orders. However, addr
 - Visualization: Power Bi
 
 ### Actionable Insights/Recommendations
--Increase Marketing Efforts for Suburbs – Introduce promotions to boost demand.
--Leverage Peak Days (Tuesdays & Fridays) – Offer surge pricing or discounts to maximize revenue.
--Enhance Airport Transfer Services – Optimize routes for increased demand.
--Expand Digital Payment Options – Encourage card payments to improve transaction efficiency.
--Weather-Based Pricing Strategies – Utilize surge pricing for snow and rain conditions to maximize revenue.
+- Increase Marketing Efforts for Suburbs – Introduce promotions to boost demand.
+- Leverage Peak Days (Tuesdays & Fridays) – Offer surge pricing or discounts to maximize revenue.
+- Enhance Airport Transfer Services – Optimize routes for increased demand.
+- Expand Digital Payment Options – Encourage card payments to improve transaction efficiency.
+- Weather-Based Pricing Strategies – Utilize surge pricing for snow and rain conditions to maximize revenue.
 
 ### Interactive/Responsive DashBoard
 ![IMG-20250128-WA0005](https://github.com/user-attachments/assets/51d82064-edf2-4cba-9983-6f27e95fca39)
