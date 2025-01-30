@@ -5,7 +5,7 @@
 - [Project 1: Predition of charges based on Medical Health Data](#Project-1:-Predition-of-charges-based-on-Medical-Health-Data)
 - [Project 2:  Comprehensive Business Metrics Analysis and Growth Strategies](#Project-2:-Comprehensive-Business-Metrics-Analysis-and-Growth-Strategies)
 - [Project 3:  Comprehensive Taxi Service Performance Analysis and Strategic Insights](#Project-3:-Comprehensive-Taxi-Service-Performance-Analysis-and-Strategic-Insights)
-- [Project 4:  Predicting Calories Burnt During a Workout Session](https://github.com/DGideonnene/Prediction-of-Calories-during-a-workout-session)
+- [Project 4:  Predicting Calories Burnt During a Workout Session](Project-4:-Predicting-Calories-Burnt-During-a-Workout-Session)
 
 
 ## [Project 1: Predition of charges based on Medical Health Data](https://github.com/DGideonnene/Medical-ML)
@@ -96,4 +96,4 @@ Although the model performs well, further refinements can be considered to enhan
 
 #### Conclusion
 The model exhibited strong performance with an R² score of 0.988 and a relatively low MSE, indicating high predictive accuracy. Given the minimal difference between training and testing performance, the model effectively generalizes to unseen data. While the model is already well-optimized, applying hyperparameter could further enhance its accuracy.
-*[For more Report Details ↗️](https://github.com/DGideonnene/Business-Metrics-Analysis-and-Growth-Strategies/blob/main/Charts/Adventure%20Data%20Analysis%20Report.docx)*
+*[For more Report Details ↗️](https://github.com/DGideonnene/Prediction-of-Calories-during-a-workout-session/blob/main/Predicting%20Calories%20Burnt%20During%20a%20Workout%20Session%20Report.pdf))*
